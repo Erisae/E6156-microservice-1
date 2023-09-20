@@ -1,0 +1,13 @@
+
+
+{
+  "data": {
+    "uni": "yx2729",
+    "first_name": "Yuhan",
+    "last_name": "Xia",
+    "school": "SEAS"
+  },
+  "links": [
+    {"rel": "school", "href": "/api/schools/SEAS"}
+  ]
+}
